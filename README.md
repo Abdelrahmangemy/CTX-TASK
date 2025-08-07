@@ -19,8 +19,6 @@ This Laravel-based API enables searching for hotels across multiple suppliers, m
   - Rating
 - Logging failed supplier requests
 - Fully tested (unit + feature tests)
-- Clean architecture following **SOLID**, **OOP**, and **Clean Code** practices
-
 ---
 
 ## ⚙️ Installation & Setup
